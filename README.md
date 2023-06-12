@@ -1,3 +1,13 @@
+1. Home Page
+![image](https://github.com/TanujJha/OpenD-NFT-Marketplace/assets/97455430/58f1be42-46ac-45fa-821d-908ea2a13ec3)
+2. Discover For Sale NFTs
+![image](https://github.com/TanujJha/OpenD-NFT-Marketplace/assets/97455430/0f41a172-b48e-4a21-b34a-7ccca079922a)
+3. Mint your own NFTs
+![image](https://github.com/TanujJha/OpenD-NFT-Marketplace/assets/97455430/2d68775f-2523-47be-9899-9e57fe3e3af0)
+4. See owned NFTs
+![image](https://github.com/TanujJha/OpenD-NFT-Marketplace/assets/97455430/c1b399df-2985-4277-a195-e0e40f576964)
+
+
 Copyright 2022 London App Brewery LTD (www.appbrewery.com)
 
 The code in this tutorial project is licended under the Apache License, Version 2.0 (the "License");
